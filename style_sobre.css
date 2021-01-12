@@ -1,0 +1,43 @@
+*{margin: 0px;padding: 0px;}
+body{background: black}
+.menu{width: 100%; height: 100px;background: black;border-bottom: 1px solid rgba(255, 255, 255, 0.2)}
+.corpo{width: 100%;height: 800px;background: green;}
+ul li{color: white;padding: 30px;margin: 10px;display: inline;background: black;font-size: 20px;font-variant: small-caps;}
+ul li:hover{border-top: 6px solid #CD5C5C;}
+ul{margin-left: 300px;margin-top: 40px;position: absolute;}
+a{text-decoration: none;}
+.titulo{color: white;position: absolute;margin-left: 10px;margin-top: 20px;font-size: 30px;font-style: italic;font-weight: bold;}
+.subtitulo{color: white;position: absolute;margin-top: 50px;margin-left: 10px;font-size: 20px;font-style: italic;}
+div.texto{color: white;width: 900px;text-align: justify;margin: 0 auto;font-family: "candara";padding:0 10px;border-left: 1px solid rgba(255, 255, 255, 0.2);}
+div.texto h2, div.texto h3{font-style: italic;}
+.caixa{width: 200px;height: 200px;position: absolute;background: white;margin-top: 110px;margin-left: 5px;border-radius: 50px;border:2px dashed white;-webkit-animation:slide 20s linear infinite alternate;}
+p.legenda{font-size: .9em;position: absolute;padding: 10px;color:white;margin-top: 306px;font-style: verdana;font-variant: small-caps;margin-left: 45px;}
+@-webkit-keyframes slide{
+	0%{background: url(slide/slide1.jpg);background-repeat: no-repeat;background-size: 100% 100%}
+	14%{background: url(slide/slide2.jpg);background-repeat: no-repeat;background-size: 100% 100%}
+	28%{background: url(slide/slide3.jpg);background-repeat: no-repeat;background-size: 100% 100%}
+	32%{background: url(slide/slide4.jpg);background-repeat: no-repeat;background-size: 100% 100%}
+	46%{background: url(slide/slide5.jpg);background-repeat: no-repeat;background-size: 100% 100%}
+	60%{background: url(slide/slide6.jpg);background-repeat: no-repeat;background-size: 100% 100%}
+	74%{background: url(slide/slide7.jpg);background-repeat: no-repeat;background-size: 100% 100%}
+	100%{background: url(slide/slide5.jpg);background-repeat: no-repeat;background-size: 100% 100%}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*Contato-------------------------------------------*/
+
+.contato{width: 100%;height: 100px;background:black;}
+.nome, .telefone, .email{font-size: 20px;color: white;display: inline;margin-left: 60px;line-height: 100px;}
+img{margin-left: 20px;position: absolute;margin-top: 35px;}
+a img:hover{transform:rotate(4deg);}

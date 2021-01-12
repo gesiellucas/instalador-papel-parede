@@ -1,0 +1,365 @@
+*{margin: 0px;padding: 0px;}
+body{background: black}
+.menu{width: 100%; height: 100px;background: black;}
+
+ul li{color: white;padding: 30px;margin: 10px;display: inline;background: black;font-size: 20px;font-variant: small-caps;}
+ul li:hover{border-top: 6px solid #CD5C5C;}
+ul{margin-left: 300px;margin-top: 40px;position: absolute;}
+a{text-decoration: none;}
+.titulo{color: white;position: absolute;margin-left: 10px;margin-top: 20px;font-size: 30px;font-style: italic;font-weight: bold;}
+.subtitulo{color: white;position: absolute;margin-top: 50px;margin-left: 10px;font-size: 20px;font-style: italic;}
+
+/*----------------bloco1---------------------------*/
+.bloco1{margin-left: 30px; margin-top: 5px;}
+
+.box1{width: 250px;height: 200px;background: url("imagem_port/wallpaper1.jpg");background-size:100% 100%;margin-left: 0px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box1:hover{transform:scale(1.05);}
+
+.box2{width: 250px;height: 200px;background: url("imagem_port/wallpaper2.jpg");background-size:100% 100%;margin-left: 260px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box2:hover{transform:scale(1.05);}
+
+.box3{width: 250px;height: 200px;background: url("imagem_port/wallpaper3.jpg");background-size:100% 100%;margin-left: 520px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box3:hover{transform:scale(1.05);}
+
+.box4{width: 250px;height: 200px;background: url("imagem_port/wallpaper4.jpg");background-size:100% 100%;margin-left: 780px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box4:hover{transform:scale(1.05);}
+
+.box5{width: 250px;height: 200px;background: url("imagem_port/wallpaper5.jpg");background-size:100% 100%;margin-left: 1040px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box5:hover{transform:scale(1.05);}
+
+/*----------------bloco2------------206---------------*/
+.bloco2{margin-left: 30px; margin-top: 5px;}
+
+.box6{width: 250px;height: 200px;background: url("imagem_port/wallpaper6.jpg");background-size:cover;margin-left: 0px;margin-top:206px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box6:hover{transform:scale(1.05);}
+
+.box7{width: 250px;height: 200px;background: url("imagem_port/wallpaper7.jpg");background-size:cover;margin-left: 260px;margin-top:206px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box7:hover{transform:scale(1.05);}
+
+.box8{width: 250px;height: 200px;background: url("imagem_port/wallpaper8.jpg");background-size:cover;margin-left: 520px;margin-top:206px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box8:hover{transform:scale(1.05);}
+
+.box9{width: 250px;height: 200px;background: url("imagem_port/wallpaper9.jpg");background-size:cover;margin-left: 780px;margin-top:206px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box9:hover{transform:scale(1.05);}
+
+.box10{width: 250px;height: 200px;background: url("imagem_port/wallpaper10.jpg");background-size:cover;margin-left: 1040px;margin-top:206px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box10:hover{transform:scale(1.05);}
+/*----------------bloco3---------------------------*/
+.bloco3{margin-left: 30px; margin-top: 5px}
+
+.box11{width: 250px;height: 200px;background: url("imagem_port/wallpaper11.jpg");background-size:cover;margin-left: 0px;margin-top:412px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box11:hover{transform:scale(1.05);}
+
+.box12{width: 250px;height: 200px;background: url("imagem_port/wallpaper12.jpg");background-size:cover;margin-left: 260px;margin-top:412px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box12:hover{transform:scale(1.05);}
+
+.box13{width: 250px;height: 200px;background: url("imagem_port/wallpaper13.jpg");background-size:cover;margin-left: 520px;margin-top:412px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box13:hover{transform:scale(1.05);}
+
+.box14{width: 250px;height: 200px;background: url("imagem_port/wallpaper14.jpg");background-size:cover;margin-left: 780px;margin-top:412px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box14:hover{transform:scale(1.05);}
+
+.box15{width: 250px;height: 200px;background: url("imagem_port/wallpaper15.jpg");background-size:cover;margin-left: 1040px;margin-top:412px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box15:hover{transform:scale(1.05);}
+
+/*----------------bloco4---------------------------*/
+.bloco4{margin-left: 30px; margin-top: 5px}
+
+.box16{width: 250px;height: 200px;background: url("imagem_port/wallpaper16.jpg");background-size:cover;margin-left: 0px;margin-top:618px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box16:hover{transform:scale(1.05);}
+
+.box17{width: 250px;height: 200px;background: url("imagem_port/wallpaper17.jpg");background-size:cover;margin-left: 260px;margin-top:618px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box17:hover{transform:scale(1.05);}
+
+.box18{width: 250px;height: 200px;background: url("imagem_port/wallpaper18.jpg");background-size:cover;margin-left: 520px;margin-top:618px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box18:hover{transform:scale(1.05);}
+
+.box19{width: 250px;height: 200px;background: url("imagem_port/wallpaper19.jpg");background-size:cover;margin-left: 780px;margin-top:618px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box19:hover{transform:scale(1.05);}
+
+.box20{width: 250px;height: 200px;background: url("imagem_port/wallpaper20.jpg");background-size:cover;margin-left: 1040px;margin-top:618px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box20:hover{transform:scale(1.05);}
+
+/*----------------bloco5---------------------------*/
+.bloco5{margin-left: 30px; margin-top: 5px}
+
+.box21{width: 250px;height: 200px;background: url("imagem_port/wallpaper21.jpg");background-size:cover;margin-left: 0px;margin-top:824px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box21:hover{transform:scale(1.05);}
+
+.box22{width: 250px;height: 200px;background: url("imagem_port/wallpaper22.jpg");background-size:cover;margin-left: 260px;margin-top:824px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box22:hover{transform:scale(1.05);}
+
+.box23{width: 250px;height: 200px;background: url("imagem_port/wallpaper23.jpg");background-size:cover;margin-left: 520px;margin-top:824px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box23:hover{transform:scale(1.05);}
+
+.box24{width: 250px;height: 200px;background: url("imagem_port/wallpaper24.jpg");background-size:cover;margin-left: 780px;margin-top:824px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box24:hover{transform:scale(1.05);}
+
+.box25{width: 250px;height: 200px;background: url("imagem_port/wallpaper25.jpg");background-size:cover;margin-left: 1040px;margin-top:824px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box25:hover{transform:scale(1.05);}
+
+/*----------------bloco6---------------------------*/
+.bloco6{margin-left: 30px; margin-top: 5px}
+
+.box26{width: 250px;height: 200px;background: url("imagem_port/wallpaper26.jpg");background-size:cover;margin-left: 0px;margin-top:1030px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box26:hover{transform:scale(1.05);}
+
+.box27{width: 250px;height: 200px;background: url("imagem_port/wallpaper27.jpg");background-size:cover;margin-left: 260px;margin-top:1030px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box27:hover{transform:scale(1.05);}
+
+.box28{width: 250px;height: 200px;background: url("imagem_port/wallpaper28.jpg");background-size:cover;margin-left: 520px;margin-top:1030px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box28:hover{transform:scale(1.05);}
+
+.box29{width: 250px;height: 200px;background: url("imagem_port/wallpaper29.jpg");background-size:cover;margin-left: 780px;margin-top:1030px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box29:hover{transform:scale(1.05);}
+
+.box30{width: 250px;height: 200px;background: url("imagem_port/wallpaper30.jpg");background-size:cover;margin-left: 1040px;margin-top:1030px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box30:hover{transform:scale(1.05);}
+
+/*----------------bloco7---------------------------*/
+.bloco7{margin-left: 30px; margin-top: 5px}
+
+.box31{width: 250px;height: 200px;background: url("imagem_port/wallpaper31.jpg");background-size:cover;margin-left: 0px;margin-top:1236px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box31:hover{transform:scale(1.05);}
+
+.box32{width: 250px;height: 200px;background: url("imagem_port/wallpaper32.jpg");background-size:cover;margin-left: 260px;margin-top:1236px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box32:hover{transform:scale(1.05);}
+
+.box33{width: 250px;height: 200px;background: url("imagem_port/wallpaper33.jpg");background-size:cover;margin-left: 520px;margin-top:1236px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box33:hover{transform:scale(1.05);}
+
+.box34{width: 250px;height: 200px;background: url("imagem_port/wallpaper34.jpg");background-size:cover;margin-left: 780px;margin-top:1236px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box34:hover{transform:scale(1.05);}
+
+.box35{width: 250px;height: 200px;background: url("imagem_port/wallpaper35.jpg");background-size:cover;margin-left: 1040px;margin-top:1236px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box35:hover{transform:scale(1.05);}
+
+/*----------------bloco8---------------------------*/
+.bloco8{margin-left: 30px; margin-top: 5px}
+
+.box36{width: 250px;height: 200px;background: url("imagem_port/wallpaper36.jpg");background-size:cover;margin-left: 0px;margin-top:1442px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box36:hover{transform:scale(1.05);}
+
+.box37{width: 250px;height: 200px;background: url("imagem_port/wallpaper37.jpg");background-size:cover;margin-left: 260px;margin-top:1442px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box37:hover{transform:scale(1.05);}
+
+.box38{width: 250px;height: 200px;background: url("imagem_port/wallpaper38.jpg");background-size:cover;margin-left: 520px;margin-top:1442px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box38:hover{transform:scale(1.05);}
+
+.box39{width: 250px;height: 200px;background: url("imagem_port/wallpaper39.jpg");background-size:cover;margin-left: 780px;margin-top:1442px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box39:hover{transform:scale(1.05);}
+
+.box40{width: 250px;height: 200px;background: url("imagem_port/wallpaper40.jpg");background-size:cover;margin-left: 1040px;margin-top:1442px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box40:hover{transform:scale(1.05);}
+
+/*----------------bloco9---------------------------*/
+.bloco9{margin-left: 30px; margin-top: 5px}
+
+.box41{width: 250px;height: 200px;background: url("imagem_port/wallpaper41.jpg");background-size:cover;margin-left: 0px;margin-top:1648px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box41:hover{transform:scale(1.05);}
+
+.box42{width: 250px;height: 200px;background: url("imagem_port/wallpaper42.jpg");background-size:cover;margin-left: 260px;margin-top:1648px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box42:hover{transform:scale(1.05);}
+
+.box43{width: 250px;height: 200px;background: url("imagem_port/wallpaper43.jpg");background-size:cover;margin-left: 520px;margin-top:1648px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box43:hover{transform:scale(1.05);}
+
+.box44{width: 250px;height: 200px;background: url("imagem_port/wallpaper44.jpg");background-size:cover;margin-left: 780px;margin-top:1648px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box44:hover{transform:scale(1.05);}
+
+.box45{width: 250px;height: 200px;background: url("imagem_port/wallpaper45.jpg");background-size:cover;margin-left: 1040px;margin-top:1648px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box45:hover{transform:scale(1.05);}
+
+/*----------------bloco10---------------------------*/
+.bloco10{margin-left: 30px; margin-top: 5px}
+
+.box46{width: 250px;height: 200px;background: url("imagem_port/wallpaper46.jpg");background-size:cover;margin-left: 0px;margin-top:1854px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box46:hover{transform:scale(1.05);}
+
+.box47{width: 250px;height: 200px;background: url("imagem_port/wallpaper47.jpg");background-size:cover;margin-left: 260px;margin-top:1854px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box47:hover{transform:scale(1.05);}
+
+.box48{width: 250px;height: 200px;background: url("imagem_port/wallpaper48.jpg");background-size:cover;margin-left: 520px;margin-top:1854px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box48:hover{transform:scale(1.05);}
+
+.box49{width: 250px;height: 200px;background: url("imagem_port/wallpaper49.jpg");background-size:cover;margin-left: 780px;margin-top:1854px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box49:hover{transform:scale(1.05);}
+
+.box50{width: 250px;height: 200px;background: url("imagem_port/wallpaper50.jpg");background-size:cover;margin-left: 1040px;margin-top:1854px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box50:hover{transform:scale(1.05);}
+/*----------------bloco11---------------------------*/
+.bloco11{margin-left: 30px; margin-top: 5px}
+
+.box51{width: 250px;height: 200px;background: url("imagem_port/wallpaper51.jpg");background-size:cover;margin-left: 0px;margin-top:2060px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box51:hover{transform:scale(1.05);}
+
+.box52{width: 250px;height: 200px;background: url("imagem_port/wallpaper52.jpg");background-size:cover;margin-left: 260px;margin-top:2060px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box2:hover{transform:scale(1.05);}
+
+.box53{width: 250px;height: 200px;background: url("imagem_port/wallpaper53.jpg");background-size:cover;margin-left: 520px;margin-top:2060px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box53:hover{transform:scale(1.05);}
+
+.box54{width: 250px;height: 200px;background: url("imagem_port/wallpaper54.jpg");background-size:cover;margin-left: 780px;margin-top:2060px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box54:hover{transform:scale(1.05);}
+
+.box55{width: 250px;height: 200px;background: url("imagem_port/wallpaper55.jpg");background-size:cover;margin-left: 1040px;margin-top:2060px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box55:hover{transform:scale(1.05);}
+/*----------------bloco12---------------------------*/
+.bloco12{margin-left: 30px; margin-top: 5px}
+
+.box56{width: 250px;height: 200px;background: url("imagem_port/wallpaper56.jpg");background-size:cover;margin-left: 0px;margin-top:2266px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box56:hover{transform:scale(1.05);}
+
+.box57{width: 250px;height: 200px;background: url("imagem_port/wallpaper57.jpg");background-size:cover;margin-left: 260px;margin-top:2266px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box57:hover{transform:scale(1.05);}
+
+.box58{width: 250px;height: 200px;background: url("imagem_port/wallpaper58.jpg");background-size:cover;margin-left: 520px;margin-top:2266px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box58:hover{transform:scale(1.05);}
+
+.box59{width: 250px;height: 200px;background: url("imagem_port/wallpaper59.jpg");background-size:cover;margin-left: 780px;margin-top:2266px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box59:hover{transform:scale(1.05);}
+
+.box60{width: 250px;height: 200px;background: url("imagem_port/wallpaper60.jpg");background-size:cover;margin-left: 1040px;margin-top:2266px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box60:hover{transform:scale(1.05);}
+/*----------------bloco13---------------------------*/
+.bloco13{margin-left: 30px; margin-top: 5px}
+
+.box61{width: 250px;height: 200px;background: url("imagem_port/wallpaper61.jpg");background-size:cover;margin-left: 0px;margin-top:2472px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box61:hover{transform:scale(1.05);}
+
+.box62{width: 250px;height: 200px;background: url("imagem_port/wallpaper62.jpg");background-size:cover;margin-left: 260px;margin-top:2472px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box62:hover{transform:scale(1.05);}
+
+.box63{width: 250px;height: 200px;background: url("imagem_port/wallpaper63.jpg");background-size:cover;margin-left: 520px;margin-top:2472px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box63:hover{transform:scale(1.05);}
+
+.box64{width: 250px;height: 200px;background: url("imagem_port/wallpaper64.jpg");background-size:cover;margin-left: 780px;margin-top:2472px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box64:hover{transform:scale(1.05);}
+
+.box65{width: 250px;height: 200px;background: url("imagem_port/wallpaper65.jpg");background-size:cover;margin-left: 1040px;margin-top:2472px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box65:hover{transform:scale(1.05);}
+/*----------------bloco14---------------------------*/
+.bloco14{margin-left: 30px; margin-top: 5px}
+
+.box66{width: 250px;height: 200px;background: url("imagem_port/wallpaper66.jpg");background-size:cover;margin-left: 0px;margin-top:2678px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box66:hover{transform:scale(1.05);}
+
+.box67{width: 250px;height: 200px;background: url("imagem_port/wallpaper67.jpg");background-size:cover;margin-left: 260px;margin-top:2678px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box67:hover{transform:scale(1.05);}
+
+.box68{width: 250px;height: 200px;background: url("imagem_port/wallpaper68.jpg");background-size:cover;margin-left: 520px;margin-top:2678px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box68:hover{transform:scale(1.05);}
+
+.box69{width: 250px;height: 200px;background: url("imagem_port/wallpaper69.jpg");background-size:cover;margin-left: 780px;margin-top:2678px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box69:hover{transform:scale(1.05);}
+
+.box70{width: 250px;height: 200px;background: url("imagem_port/wallpaper70.jpg");background-size:cover;margin-left: 1040px;margin-top:2678px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box70:hover{transform:scale(1.05);}
+/*----------------bloco15---------------------------*/
+.bloco15{margin-left: 30px; margin-top: 5px}
+
+.box71{width: 250px;height: 200px;background: url("imagem_port/wallpaper71.jpg");background-size:cover;margin-left: 0px;margin-top:2884px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box71:hover{transform:scale(1.05);}
+
+.box72{width: 250px;height: 200px;background: url("imagem_port/wallpaper72.jpg");background-size:cover;margin-left: 260px;margin-top:2884px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box72:hover{transform:scale(1.05);}
+
+.box73{width: 250px;height: 200px;background: url("imagem_port/wallpaper73.jpg");background-size:cover;margin-left: 520px;margin-top:2884px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box73:hover{transform:scale(1.05);}
+
+.box74{width: 250px;height: 200px;background: url("imagem_port/wallpaper74.jpg");background-size:cover;margin-left: 780px;margin-top:2884px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box74:hover{transform:scale(1.05);}
+
+.box75{width: 250px;height: 200px;background: url("imagem_port/wallpaper75.jpg");background-size:cover;margin-left: 1040px;margin-top:2884px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box75:hover{transform:scale(1.05);}
+/*----------------bloco16---------------------------*/
+.bloco16{margin-left: 30px; margin-top: 5px}
+
+.box76{width: 250px;height: 200px;background: url("imagem_port/wallpaper76.jpg");background-size:cover;margin-left: 0px;margin-top:3090px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box76:hover{transform:scale(1.05);}
+
+.box77{width: 250px;height: 200px;background: url("imagem_port/wallpaper77.jpg");background-size:cover;margin-left: 260px;margin-top:3090px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box77:hover{transform:scale(1.05);}
+
+.box78{width: 250px;height: 200px;background: url("imagem_port/wallpaper78.jpg");background-size:cover;margin-left: 520px;margin-top:3090px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box78:hover{transform:scale(1.05);}
+
+.box79{width: 250px;height: 200px;background: url("imagem_port/wallpaper79.jpg");background-size:cover;margin-left: 780px;margin-top:3090px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box79:hover{transform:scale(1.05);}
+
+.box80{width: 250px;height: 200px;background: url("imagem_port/wallpaper80.jpg");background-size:cover;margin-left: 1040px;margin-top:3090px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box80:hover{transform:scale(1.05);}
+/*----------------bloco17---------------------------*/
+.bloco17{margin-left: 30px; margin-top: 5px}
+
+.box81{width: 250px;height: 200px;background: url("imagem_port/wallpaper81.jpg");background-size:cover;margin-left: 0px;margin-top:3296px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box81:hover{transform:scale(1.05);}
+
+.box82{width: 250px;height: 200px;background: url("imagem_port/wallpaper82.jpg");background-size:cover;margin-left: 260px;margin-top:3296px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box82:hover{transform:scale(1.05);}
+
+.box83{width: 250px;height: 200px;background: url("imagem_port/wallpaper83.jpg");background-size:cover;margin-left: 520px;margin-top:3296px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box83:hover{transform:scale(1.05);}
+
+.box84{width: 250px;height: 200px;background: url("imagem_port/wallpaper84.jpg");background-size:cover;margin-left: 780px;margin-top:3296px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box84:hover{transform:scale(1.05);}
+
+.box85{width: 250px;height: 200px;background: url("imagem_port/wallpaper85.jpg");background-size:cover;margin-left: 1040px;margin-top:3296px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box85:hover{transform:scale(1.05);}
+/*----------------bloco18---------------------------*/
+.bloco18{margin-left: 30px; margin-top: 5px}
+
+.box86{width: 250px;height: 200px;background: url("imagem_port/wallpaper86.jpg");background-size:cover;margin-left: 0px;margin-top:3502px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box86:hover{transform:scale(1.05);}
+
+.box87{width: 250px;height: 200px;background: url("imagem_port/wallpaper87.jpg");background-size:cover;margin-left: 260px;margin-top:3502px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box87:hover{transform:scale(1.05);}
+
+.box88{width: 250px;height: 200px;background: url("imagem_port/wallpaper88.jpg");background-size:cover;margin-left: 520px;margin-top:3502px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box88:hover{transform:scale(1.05);}
+
+.box89{width: 250px;height: 200px;background: url("imagem_port/wallpaper89.jpg");background-size:cover;margin-left: 780px;margin-top:3502px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box89:hover{transform:scale(1.05);}
+
+.box90{width: 250px;height: 200px;background: url("imagem_port/wallpaper90.jpg");background-size:cover;margin-left: 1040px;margin-top:3502px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box90:hover{transform:scale(1.05);}
+/*----------------bloco19---------------------------*/
+.bloco19{margin-left: 30px; margin-top: 5px}
+
+.box91{width: 250px;height: 200px;background: url("imagem_port/wallpaper91.jpg");background-size:cover;margin-left: 0px;margin-top:3708px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box91:hover{transform:scale(1.05);}
+
+.box92{width: 250px;height: 200px;background: url("imagem_port/wallpaper92.jpg");background-size:cover;margin-left: 260px;margin-top:3708px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box92:hover{transform:scale(1.05);}
+
+.box93{width: 250px;height: 200px;background: url("imagem_port/wallpaper93.jpg");background-size:cover;margin-left: 520px;margin-top:3708px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box93:hover{transform:scale(1.05);}
+
+.box94{width: 250px;height: 200px;background: url("imagem_port/wallpaper94.jpg");background-size:cover;margin-left: 780px;margin-top:3708px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box94:hover{transform:scale(1.05);}
+
+.box95{width: 250px;height: 200px;background: url("imagem_port/wallpaper95.jpg");background-size:cover;margin-left: 1040px;margin-top:3708px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box95:hover{transform:scale(1.05);}
+/*----------------bloco20---------------------------*/
+.bloco20{margin-left: 30px; margin-top: 5px}
+
+.box96{width: 250px;height: 200px;background: url("imagem_port/wallpaper96.jpg");background-size:cover;margin-left: 0px;margin-top:3914px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box96:hover{transform:scale(1.05);}
+
+.box97{width: 250px;height: 200px;background: url("imagem_port/wallpaper97.jpg");background-size:cover;margin-left: 260px;margin-top:3914px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box97:hover{transform:scale(1.05);}
+
+.box98{width: 250px;height: 200px;background: url("imagem_port/wallpaper98.jpg");background-size:cover;margin-left: 520px;margin-top:3914px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box98:hover{transform:scale(1.05);}
+
+.box99{width: 250px;height: 200px;background: url("imagem_port/wallpaper.jpg");background-size:cover;margin-left: 780px;margin-top:3914px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box99:hover{transform:scale(1.05);}
+
+.box90{width: 250px;height: 200px;background: url("imagem_port/wallpaper15.jpg");background-size:cover;margin-left: 1040px;margin-top:3914px;position: absolute;transition:all 0.4s;box-shadow: 0px 0px  0px 5px white inset;}
+.box90:hover{transform:scale(1.05);}
+
+
+.contato{width: 100%;height: 100px;background:black;margin-top:4164px;}
+.nome, .telefone, .email{font-size: 20px;color: white;display: inline;margin-left: 60px;line-height: 100px;}
+img{margin-left: 20px;position: absolute;margin-top: 35px;}
+a img:hover{transform:rotate(4deg);}
